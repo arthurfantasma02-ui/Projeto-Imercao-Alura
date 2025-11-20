@@ -1,0 +1,40 @@
+[
+{
+    "nome": "JavaScript",
+    "descrição": "JavaScript é uma linguagem de programação leve, interpretada e orientada a objetos, amplamente utilizada para desenvolvimento web.",
+    "Site oficial": "https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+
+
+{
+    "nome": "Python",
+    "descrição": "Python é uma linguagem de programação de alto nível, interpretada e de propósito geral, conhecida por sua legibilidade e simplicidade.",
+    "Site oficial": "https://www.python.org/"
+},
+{
+    "nome": "Java",
+    "descrição": "Java é uma linguagem de programação orientada a objetos, de propósito geral, baseada em classes e projetada para ter o mínimo de dependências de implementação possível.",
+    "Site oficial": "https://www.java.com/"
+},
+{
+    "nome": "C#",
+    "descrição": "C# (pronuncia-se 'C sharp') é uma linguagem de programação moderna, orientada a objetos e de tipo seguro, desenvolvida pela Microsoft.",
+    "Site oficial": "https://docs.microsoft.com/pt-br/dotnet/csharp/"
+},
+{
+    "nome": "Go",
+    "descrição": "Go (ou Golang) é uma linguagem de programação de código aberto desenvolvida pelo Google, projetada para ser simples, eficiente e confiável.",
+    "Site oficial": "https://go.dev/"
+},
+{
+    "nome": "Rust",
+    "descrição": "Rust é uma linguagem de programação que se concentra em velocidade, segurança de memória e paralelismo.",
+    "Site oficial": "https://www.rust-lang.org/"
+},
+{
+    "nome": "TypeScript",
+    "descrição": "TypeScript é um superconjunto de JavaScript que adiciona tipagem estática opcional à linguagem, desenvolvido pela Microsoft.",
+    "Site oficial": "https://www.typescriptlang.org/"
+}
+
+]
